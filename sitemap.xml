@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://trans-in-ireland.github.io/links/</loc>
+    <lastmod>2018-12-11T11:16:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trans-in-ireland.github.io/</loc>
+    <lastmod>2018-12-11T11:11:48-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://trans-in-ireland.github.io/posts/work-in-progress/</loc>
     <lastmod>2018-12-06T02:52:10-08:00</lastmod>
   </url>
@@ -20,12 +30,6 @@
   
   <url>
     <loc>https://trans-in-ireland.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://trans-in-ireland.github.io/</loc>
-    <lastmod>2018-12-06T02:52:10-08:00</lastmod>
     <priority>0</priority>
   </url>
   
